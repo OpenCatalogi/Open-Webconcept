@@ -16,9 +16,9 @@ env: # Change these to your preferences any image url can also be a base encoded
   LOGIN_REDIRECT: "vault"
   ADMIN_DASHBOARD_URL: "https://admin.opencatalogi.nl"
 
-  NL_DESIGN_THEME_CLASSNAME: rotterdam-theme
+  NL_DESIGN_THEME_CLASSNAME: open-webconcept-theme
   ARROW_BREADCRUMBS: "false"
-  HEADER_LOGO_URL: "https://www.rotterdam.nl/images/logo-base.svg"
+  HEADER_LOGO_URL: "https://openwebconcept.nl/wp-content/themes/openwebconcept/assets/src/images/logo@2x.png"
 
   # GITHUB_ORGANIZATION_URL: ""
 
